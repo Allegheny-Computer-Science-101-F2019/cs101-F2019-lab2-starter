@@ -13,6 +13,7 @@ import java.util.Scanner;
  * <p>Bugs: This class has no known bugs but it is missing features.
  *
  * @author Gregory M. Kapfhammer
+ * @author Add Your Name Here
  */
 
 public class Sentences {
